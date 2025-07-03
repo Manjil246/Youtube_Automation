@@ -1,0 +1,17 @@
+# Requires Python 3.9 or 3.11+ for TTS package compatibility
+TTS
+pydub
+openai
+requests
+moviepy
+pillow<10
+diffusers 
+transformers 
+accelerate
+google-auth
+google-auth-oauthlib 
+google-auth-httplib2 
+google-api-python-client
+
+# pip uninstall torch torchvision torchaudio -y
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118

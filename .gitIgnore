@@ -1,0 +1,13 @@
+.env
+client_secret.json
+cs.json
+temp.txt
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.wav
+.venv
+.venv/
+*.json
